@@ -1,4 +1,4 @@
-// Utilities for kakarot standard library.
+// Utilities for zap standard library.
 use array::ArrayTrait;
 use option::OptionTrait;
 
